@@ -1,0 +1,9 @@
+{
+  "name": "fundamentalspractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --require ./global.js testing/test.js"
+  }
+}
