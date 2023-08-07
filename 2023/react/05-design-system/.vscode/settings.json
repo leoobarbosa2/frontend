@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "javascript.suggest.autoImports": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    // "source.organizeImports": true
+  },
+}

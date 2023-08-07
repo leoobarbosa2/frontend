@@ -1,0 +1,16 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+
+.header__title {
+    font-size: 1.50rem;
+    margin-left: 0.94rem;
+}
+
+.header img {
+    height: 2rem;
+}
+
